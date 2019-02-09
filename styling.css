@@ -1,0 +1,18 @@
+#avi{
+    border: 6%;
+    border-color: blue;
+    border-width: 2px;
+    padding: 3%;
+    margin-top: 3%;
+    margin-right: 45%;
+    border-style: solid;
+    border-left-width: 6px;
+}
+#she{
+   border-radius: 20px;
+   border: 2px solid black;
+   padding: 25px;
+   width: 400px;
+   height: 200px;
+   margin-left: 25%;
+}

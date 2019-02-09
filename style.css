@@ -1,0 +1,23 @@
+body{
+   font-family: Raleway;
+   font-weight: bold;
+   font-size: 20px;
+   font-style: italic;
+   background-image: url("https://media.giphy.com/media/3oEduOKodpbGF0dgpW/giphy.gif");
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white;
+}
+
+
+
+
+h1{
+    color: blue
+}
+#box1{
+    font-family: Raleway, Helvetica, sans-serif
+}
+#box2{
+    background-image: url("");
+}
